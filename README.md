@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **aryanneacosta/aryanneacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ My name is Aryanne Acosta.  I'm a undergaduate aerospace engineering student at 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta)
+
 
 I'm currently learning:
 
