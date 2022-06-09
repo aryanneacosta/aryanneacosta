@@ -5,8 +5,8 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 ---
 - My pronouns are she/her.
 - I'm from Brazil.
-- I'm a [INTJ: Architect](https://www.16personalities.com/profiles/c165002a68ef8)
-- I really interested about learning different languages, currently learning French at [Duolingo](https://www.duolingo.com/profile/AryanneAco)
+- I'm a [INTJ: Architect](https://www.16personalities.com/profiles/c165002a68ef8).
+- I really interested about learning different languages, currently learning French at [Duolingo](https://www.duolingo.com/profile/AryanneAco).
 
 ---
 <div>
@@ -28,7 +28,6 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Ubuntu]([https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white))
 
 ---
  <h4>You can also find me here:</h4>
