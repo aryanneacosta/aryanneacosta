@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 My name is Aryanne Acosta.  I'm a undergaduate aerospace engineering student at **UFABC**. I'm currently studying at **Driven** to be a Full Stack Developer.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta)
+<div>
+  <a href="https://www.linkedin.com/in/aryanneacosta/" target="_blank">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=aryanneacosta&show_icons=true&theme=gotham"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
+</div>
 
 
 I'm currently learning:
