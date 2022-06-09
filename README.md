@@ -21,7 +21,6 @@ My name is Aryanne Acosta.  I'm a undergaduate aerospace engineering student at 
 
 <div>
   <a href="https://www.linkedin.com/in/aryanneacosta/" target="_blank">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=aryanneacosta&show_icons=true&theme=gotham"/>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
 </div>
 
