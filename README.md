@@ -2,6 +2,8 @@
 
 My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at **UFABC**. I'm currently studying at **Driven** to be a Full Stack Developer.
 
+![](fantasminhagamercroped.jpg)
+
 ---
 - My pronouns are she/her.
 - I'm from Brazil.
