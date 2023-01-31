@@ -4,8 +4,8 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 
 ---
 - My pronouns are she/her.
-- I'm from Brazil.
-- I'm a [INTJ: Architect](https://www.16personalities.com/profiles/c165002a68ef8).
+- I'm from São Paulo - Brazil.
+- I'm a [INFP: Mediator](https://www.16personalities.com/infp-personality).
 - I really interested about learning different languages, currently learning French at [Duolingo](https://www.duolingo.com/profile/AryanneAco).
 
 ---
