@@ -9,12 +9,6 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 - I really interested about learning different languages, currently learning French at [Duolingo](https://www.duolingo.com/profile/AryanneAco).
 
 ---
-<div>
-  <a href="https://www.linkedin.com/in/aryanneacosta/" target="_blank">
-  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
-</div>
-
----
 <h4>Technologies and tools:</h4>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -50,5 +44,9 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanne-acosta/)
 
 ---
+<div>
+  <a href="https://www.linkedin.com/in/aryanneacosta/" target="_blank">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
+</div>
 
-
+---
