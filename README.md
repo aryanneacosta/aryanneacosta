@@ -53,4 +53,4 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 </div>
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanneacosta.aryanneacosta)
+![Github profile views](https://komarev.com/ghpvc/?username=your-github-aryanneacosta)
