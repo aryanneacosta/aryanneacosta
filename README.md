@@ -1,15 +1,15 @@
-### Hello there 👋
+### 👋 Hello there 
 
-My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at **UFABC**. I'm currently studying at **Driven** to be a Full Stack Developer.
+My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at **UFABC**. I'm currently studying to be a **FullStack Developer**.
 
 ---
 - My pronouns are she/her.
 - I'm from São Paulo - Brazil.
 - I'm a [INFP: Mediator](https://www.16personalities.com/infp-personality).
-- I really interested about learning different languages, currently learning French at [Duolingo](https://www.duolingo.com/profile/AryanneAco).
+- I really interested about learning different languages, currently learning French with [Duolingo](https://www.duolingo.com/profile/AryanneAco).
 
 ---
-<h4>Technologies and tools:</h4>
+<h3>Technologies and tools:</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,8 +35,8 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
- <h4>You can also find me here:</h4>
+---
+ <h4>Let's connect:</h4>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/areiafrita)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/areianne)
@@ -49,5 +49,5 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
 </div>
 
-
+---
 ![Github profile views](https://komarev.com/ghpvc/?username=your-github-aryanneacosta)
