@@ -25,7 +25,7 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
----
+
 <h4>Interested in learning/improving:</h4>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -35,7 +35,7 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+
  <h4>You can also find me here:</h4>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/areiafrita)
@@ -49,5 +49,5 @@ My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at *
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanneacosta&layout=compact&theme=gotham"/>
 </div>
 
----
+
 ![Github profile views](https://komarev.com/ghpvc/?username=your-github-aryanneacosta)
