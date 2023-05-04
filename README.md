@@ -1,6 +1,6 @@
 ### 👋 Hello there 
 
-My name is Aryanne Acosta. I'm a undergaduate aerospace engineering student at **UFABC**. I'm currently studying to be a **FullStack Developer**.
+My name is Aryanne Acosta. I'm a undergaduate computer science student at **UFABC**. I'm currently studying to be a **FullStack Developer**.
 
 ---
 - My pronouns are she/her.
